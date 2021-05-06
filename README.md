@@ -13,3 +13,7 @@ To test git push
 lalala
 
 Sample website with plenty of files for demos
+
+### Copyright 
+
+Blabal i lalala
