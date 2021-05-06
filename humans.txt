@@ -3,7 +3,11 @@
 
 # TEAM
 
-    Jason Taylor blabla@gmail.com @blabla
+    Jason Taylor blabla@gmail.com @blabla 
+	
+	lalalal
+	
+	technology 
 
 # THANKS
 
