@@ -17,3 +17,6 @@ Sample website with plenty of files for demos
 ### Copyright 
 
 Blabal i lalala
+
+
+Please fork this repository.
